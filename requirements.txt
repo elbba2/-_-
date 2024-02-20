@@ -1,5 +1,5 @@
-discord 
-time 
-random 
-asyncio
-requests
+discord.py 
+time.py 
+random.py 
+asyncio.py
+requests.py
